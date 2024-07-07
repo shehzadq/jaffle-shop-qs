@@ -67,4 +67,4 @@ final as (
 )
 
 select * from final
-test
+-- test from vscode
